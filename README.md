@@ -1,4 +1,6 @@
 # Reproduction_of_MCAN
+MCAN代码非官方复现与注释
+
 This is the reproduction of MCAN from paper in ACL 2021: "Multimodal Fusion with Co-Attention Networks for Fake News Detection".
 
 本项目是结合weibo和twitter两个数据集对官方MCAN代码进行的注释和复现。
